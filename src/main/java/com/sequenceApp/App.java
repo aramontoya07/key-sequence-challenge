@@ -1,4 +1,4 @@
-package com.test;
+package com.sequenceApp;
 
 import java.util.HashMap;
 import java.util.Map;
